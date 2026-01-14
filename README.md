@@ -11,9 +11,10 @@ This repository contains my personal solutions to LeetCode problems, focusing on
 
 ## 📚 Problem Index
 
-| #   | Title   | Difficulty | Solution                               |
-| :-- | :------ | :--------- | :------------------------------------- |
-| 001 | Two Sum | 🟢 Easy    | [Solution](./easy/two-sum/solution.js) |
+| #   | Title           | Difficulty | Solution                                         |
+| :-- | :-------------- | :--------- | :----------------------------------------------- |
+| 001 | Two Sum         | 🟢 Easy    | [Solution](./easy/two-sum/solution.js)           |
+| 002 | Add Two Numbers | 🟡 Medium  | [Solution](./medium/add-two-numbers/solution.js) |
 
 ## 🧪 Setup & How to Run Tests
 
